@@ -1,0 +1,26 @@
+#start_button{
+	height: 100px;
+	width: 400px;
+	font-size: 50px;
+}
+
+#nickname_input{
+	width: 300px;
+	font-size: 30px;
+}
+
+#rooms_list_select{
+	width: 300px;
+	font-size: 30px;
+}
+
+#MenuContainer{
+	position: absolute;
+	left: 0px;
+	right: 0px;
+}
+#MainContainer{
+	position: absolute;
+	left: 0px;
+	right: 0px;
+}
